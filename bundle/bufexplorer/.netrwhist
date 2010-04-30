@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/ed/Development/oss/fast_context'
+let g:netrw_dirhist_2='/Users/ed/Development/oss/lister'
+let g:netrw_dirhist_3='/Users/ed/Development/SLS/nomtracker/rails'
+let g:netrw_dirhist_4='/Users/ed/Development/oss/stay_with_a_local'
