@@ -1,6 +1,6 @@
 call pathogen#runtime_append_all_bundles()
 
-colorscheme native 
+colorscheme Mustang
 
 set tabstop=2
 set smarttab
@@ -8,6 +8,8 @@ set shiftwidth=2
 set autoindent
 set expandtab
 set hidden
+
+set cursorline
 
 set guifont=Inconsolata
 
