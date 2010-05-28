@@ -46,7 +46,7 @@ vnoremap <D-[> <gv
 
 
 " Map a shortcut to close a buffer
-map <leader>. :BufClose<CR>
+map <leader>. :BD<CR>
 
 " Shortcut for viewing open buffers
 map <leader>m :BufExplorer<CR>
