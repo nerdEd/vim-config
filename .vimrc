@@ -1,6 +1,6 @@
 call pathogen#runtime_append_all_bundles()
 
-colorscheme Mustang
+colorscheme ir_black
 
 set tabstop=2
 set smarttab
@@ -8,15 +8,10 @@ set shiftwidth=2
 set autoindent
 set expandtab
 set hidden
-
 set cursorline
-
-set guifont=Inconsolata
-
 set number
 
 let mapleader = ","
-map <leader>f :FuzzyFinderTextMate<CR>
 map <leader>n :NERDTree<CR>
 
 " don't leave backup files scattered about.
