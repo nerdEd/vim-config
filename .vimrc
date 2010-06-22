@@ -34,16 +34,6 @@ set ai                "auto indent
 set expandtab
 set smarttab
 
-" tabbing blocks
-noremap <D-]> >>
-noremap <D-[> <<
-vnoremap <D-]> >gv
-vnoremap <D-[> <gv
-
-" Use Command+Alt+left and Command+Alt+right to move to prev/next buffers
-:noremap <D-A-left> :bprev!<CR>
-:noremap <D-A-right> :bnext!<CR>
-
 
 " Map a shortcut to close a buffer
 map <leader>. :BW<CR>
