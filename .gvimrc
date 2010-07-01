@@ -11,8 +11,6 @@ noremap <D-[> <<
 vnoremap <D-]> >gv
 vnoremap <D-[> <gv
 
-" Use Command+Alt+left and Command+Alt+right to move to prev/next buffers
-:noremap <D-A-left> :bprev!<CR>
-:noremap <D-A-right> :bnext!<CR>
+set guifont=Mensch:h10
 
-set guifont=Mensch
+colorscheme ir_black
