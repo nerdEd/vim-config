@@ -1,7 +1,5 @@
 call pathogen#runtime_append_all_bundles()
 
-colorscheme ir_black
-
 set tabstop=2
 set smarttab
 set shiftwidth=2
@@ -10,6 +8,11 @@ set expandtab
 set hidden
 set cursorline
 set number
+syntax on
+
+set foldlevel=1
+
+colorscheme enzyme
 
 let mapleader = ","
 map <leader>n :NERDTree<CR>
