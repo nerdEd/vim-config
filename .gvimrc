@@ -13,4 +13,4 @@ vnoremap <D-[> <gv
 
 set guifont=Mensch:h10
 
-colorscheme ir_black
+colorscheme pyte
