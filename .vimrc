@@ -40,3 +40,8 @@ map <leader>. :BW<CR>
 map <leader>m :BufExplorer<CR>
 
 let g:CommandTMaxHeight = 10
+
+nnoremap <Right> <C-W><Right>
+nnoremap <Left> <C-W><Left>
+nnoremap <Up> <C-W><Up>
+nnoremap <Down> <C-W><Down>
