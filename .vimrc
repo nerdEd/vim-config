@@ -41,6 +41,11 @@ map <leader>m :BufExplorer<CR>
 
 let g:CommandTMaxHeight = 10
 
+" use ,v to make a new vertical split, ,s for horiz, ,x to close a split
+noremap <leader>v <c-w>v<c-w>l
+noremap <leader>s <c-w>s<c-w>j
+noremap <leader>x <c-w>c"
+
 " use ctrl-h/j/k/l to switch between splits
 map <c-j> <c-w>j
 map <c-k> <c-w>k
