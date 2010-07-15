@@ -15,7 +15,10 @@ set foldlevel=1
 colorscheme enzyme
 
 let mapleader = ","
-map <leader>n :NERDTree<CR>
+
+map <leader>t :NERDTree<CR>
+
+map <leader>n :CommandT<CR>
 
 " don't leave backup files scattered about.
 set updatecount=0
