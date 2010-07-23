@@ -13,4 +13,5 @@ vnoremap <D-[> <gv
 
 set guifont=Mensch:h10
 
-colorscheme pyte
+colorscheme ir_black
+" set transparency=15
