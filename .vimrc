@@ -28,12 +28,8 @@ set nowritebackup
 set nowrap            "no text wrapping
 set selectmode=key    "shifted arrows for selection
 set foldcolumn=0      "little space on the left.
-set tabstop=2
-set shiftwidth=2
 set softtabstop=2
 set ai                "auto indent
-set expandtab
-set smarttab
 
 
 " Map a shortcut to close a buffer
