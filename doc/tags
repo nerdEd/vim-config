@@ -46,7 +46,7 @@ Tlist_Get_Tagname_By_Line()	taglist.txt	/*Tlist_Get_Tagname_By_Line()*
 Tlist_Set_App()	taglist.txt	/*Tlist_Set_App()*
 Tlist_Update_File_Tags()	taglist.txt	/*Tlist_Update_File_Tags()*
 command-t	command-t.txt	/*command-t*
-command-t-author	command-t.txt	/*command-t-author*
+command-t-authors	command-t.txt	/*command-t-authors*
 command-t-commands	command-t.txt	/*command-t-commands*
 command-t-contents	command-t.txt	/*command-t-contents*
 command-t-donations	command-t.txt	/*command-t-donations*
@@ -56,6 +56,7 @@ command-t-license	command-t.txt	/*command-t-license*
 command-t-mappings	command-t.txt	/*command-t-mappings*
 command-t-options	command-t.txt	/*command-t-options*
 command-t-requirements	command-t.txt	/*command-t-requirements*
+command-t-trouble-shooting	command-t.txt	/*command-t-trouble-shooting*
 command-t-usage	command-t.txt	/*command-t-usage*
 command-t-website	command-t.txt	/*command-t-website*
 command-t-wildignore	command-t.txt	/*command-t-wildignore*
