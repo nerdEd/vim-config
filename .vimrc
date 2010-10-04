@@ -50,3 +50,16 @@ map <c-j> <c-w>j
 map <c-k> <c-w>k
 map <c-l> <c-w>l
 map <c-h> <c-w>h
+
+filetype plugin indent on
+let clj_highlight_builtins = 1
+
+" json syntax
+au BufRead,BufNewFile *.json set filetype=json
+
+au BufRead,BufNewFile *.txt set formatoptions+=aw
+au BufRead,BufNewFile *.txt set textwidth=80
+au BufRead,BufNewFile *.txt set spell
+au BufRead,BufNewFile *.md set formatoptions+=aw
+au BufRead,BufNewFile *.md set textwidth=80
+au BufRead,BufNewFile *.md set spell
