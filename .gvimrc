@@ -11,7 +11,7 @@ noremap <D-[> <<
 vnoremap <D-]> >gv
 vnoremap <D-[> <gv
 
-set guifont=Mensch:h10
+set guifont=Inconsolata:h12
 
-colorscheme ir_black
+colorscheme Mustang
 " set transparency=15
