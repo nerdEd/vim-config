@@ -1,3 +1,4 @@
 .netrwhist
 ruby/command-t/*
 .VimballRecord
+plugin/command-t.vim
