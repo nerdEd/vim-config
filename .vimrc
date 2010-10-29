@@ -16,7 +16,7 @@ colorscheme enzyme
 
 let mapleader = ","
 
-# NERDTree Setup
+" NERDTree Setup
 map <leader>t :NERDTree<CR>
 map <leader>d :execute 'NERDTreeToggle ' . getcwd()<CR>
 
