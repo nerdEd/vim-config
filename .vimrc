@@ -59,6 +59,7 @@ let clj_highlight_builtins = 1
 " json syntax
 au BufRead,BufNewFile *.json set filetype=json
 
+" options for test and markdown files
 au BufRead,BufNewFile *.txt set formatoptions+=aw
 au BufRead,BufNewFile *.txt set textwidth=80
 au BufRead,BufNewFile *.txt set spell
