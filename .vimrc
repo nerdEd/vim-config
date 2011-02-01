@@ -66,3 +66,11 @@ au BufRead,BufNewFile *.txt set spell
 au BufRead,BufNewFile *.md set formatoptions+=aw
 au BufRead,BufNewFile *.md set textwidth=80
 au BufRead,BufNewFile *.md set spell
+
+" NERDCommenter shortcuts
+nmap \\           <Plug>NERDCommenterInvert
+xmap \\           <Plug>NERDCommenterInvert
+
+" Enable TAB indent and SHIFT-TAB unindent
+vnoremap <silent> <TAB> >gv
+vnoremap <silent> <S-TAB> <gv
