@@ -12,7 +12,7 @@ syntax on
 
 set foldlevel=1
 
-colorscheme enzyme
+colorscheme ir_black
 
 let mapleader = ","
 
