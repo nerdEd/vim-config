@@ -15,3 +15,7 @@ set guifont=Meslo\ LG\ M\ DZ:h10
 
 colorscheme Mustang
 " set transparency=15
+
+" Run file or current test with command-r and command-R
+autocmd User Rails nnoremap <buffer> <D-r> :<C-U>Rake<CR>
+autocmd User Rails nnoremap <buffer> <D-R> :<C-U>.Rake<CR>
