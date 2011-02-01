@@ -11,10 +11,9 @@ noremap <D-[> <<
 vnoremap <D-]> >gv
 vnoremap <D-[> <gv
 
-set guifont=Meslo\ LG\ M\ DZ:h10
+set guifont=Meslo\ LG\ M\ DZ:h14
 
-colorscheme Mustang
-" set transparency=15
+colorscheme habilight
 
 " Run file or current test with command-r and command-R
 autocmd User Rails nnoremap <buffer> <D-r> :<C-U>Rake<CR>
