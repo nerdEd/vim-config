@@ -27,7 +27,7 @@ set updatecount=0
 set nobackup
 set nowritebackup
 
-set nowrap            "no text wrapping
+"set nowrap            "no text wrapping
 set selectmode=key    "shifted arrows for selection
 set foldcolumn=0      "little space on the left.
 set softtabstop=2
