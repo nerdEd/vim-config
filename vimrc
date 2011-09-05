@@ -36,7 +36,7 @@ set ai                "auto indent
 
 
 " Map a shortcut to close a buffer
-map <leader>. :BW<CR>
+map <leader>. :bw<CR>
 
 " Shortcut for viewing open buffers
 map <leader>m :BufExplorer<CR>
